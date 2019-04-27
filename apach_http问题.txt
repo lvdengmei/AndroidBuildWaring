@@ -5,3 +5,6 @@ https://stackoverflow.com/questions/32949626/org-apache-http-entity-fileentity-i
 3.OkHttp (my recommendation)
 4.AndroidAsync
 http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/deprecated-list.html
+
+可以试度用HttpClient for Android
+https://hc.apache.org/httpcomponents-client-4.3.x/android-port.html
