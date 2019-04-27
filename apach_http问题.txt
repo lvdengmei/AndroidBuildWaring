@@ -1,0 +1,7 @@
+https://stackoverflow.com/questions/32949626/org-apache-http-entity-fileentity-is-deprecated-in-android-6-marshmallow
+需要用
+1.java JDK自带包 classic Java HttpUrlConnection
+2.Apache's independent packaging of HttpClient for Android
+3.OkHttp (my recommendation)
+4.AndroidAsync
+http://hc.apache.org/httpcomponents-client-ga/httpclient/apidocs/deprecated-list.html
